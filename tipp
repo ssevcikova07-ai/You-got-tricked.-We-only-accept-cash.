@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gotcha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 1000vh;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>You got tricked. We only accept cash.</h1>
+</body>
+</html>
